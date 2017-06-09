@@ -10,7 +10,9 @@ public class Ta {
 		}
 		public int sum(int x,int y){
 			System.out.println("提交四次");
+			
+			System.out.println("heihei");
 			return x+y;
-			System.out.println("提交五次");
+			
 		}
 }
