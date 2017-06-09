@@ -15,4 +15,8 @@ public class Ta {
 			return x+y;
 			
 		}
+		public void name() {
+			System.out.println("小猫");
+			
+		}
 }
