@@ -17,6 +17,7 @@ public class Ta {
 		}
 		public void name() {
 			System.out.println("小猫");
+			System.out.println("小狗");	
 			
 		}
 }
