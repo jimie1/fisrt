@@ -9,7 +9,7 @@ public class Ta {
 			System.out.println("提交三次");
 		}
 		public int sum(int x,int y){
-			
+			System.out.println("提交四次");
 			return x+y;
 		}
 }
