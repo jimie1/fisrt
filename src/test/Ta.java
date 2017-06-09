@@ -7,6 +7,7 @@ public class Ta {
 		}
 		public void print(){
 			System.out.println("提交三次");
+			System.out.println("老鼠");
 		}
 		public int sum(int x,int y){
 			System.out.println("提交四次");
